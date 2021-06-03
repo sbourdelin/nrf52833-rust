@@ -1,0 +1,1 @@
+# rust-nrf52833-minimal-baremetal
